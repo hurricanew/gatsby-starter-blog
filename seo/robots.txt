@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /hello-world/
+Disallow: /my-second-post/
+Sitemap: https://gatsbystarterblogsource.gatsbyjs.io/gatsby-starter-blog/sitemap-index.html
+Host: https://gatsbystarterblogsource.gatsbyjs.io
